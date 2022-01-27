@@ -5,7 +5,6 @@ function getSpeciesByIds(...ids) {
   if (ids === '' || ids === undefined) {
     return [];
   }
-
   return species.filter((animal) => ids.includes(animal.id));
 }
 
