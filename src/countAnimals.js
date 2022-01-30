@@ -16,7 +16,6 @@ const countByName = (specie) => species
 const countBySex = (specie, sex) =>
   species.find((eleAnimal) => specie === eleAnimal.name)
     .residents.filter((eleAnimal) => eleAnimal.sex === sex).length;
-// const total = allAnimals.residents.filter((element) => sex === element.sex)
 
 function countAnimals(animal) {
   if (animal === undefined) {
