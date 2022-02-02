@@ -4,6 +4,7 @@ const data = require('../data/zoo_data');
 function countEntrants(entrants) {
   return entrants.reduce((acc, cur) => {
     if (cur.age < 18) {
+      console.log(cur.age);
       acc.child += 1;
     }
 
@@ -28,5 +29,4 @@ function calculateEntry(entrants) {
 
   return ((adultTicket * adult) + (childTicket * child) + (seniorTicket * senior));
 }
-
 module.exports = { calculateEntry, countEntrants };
