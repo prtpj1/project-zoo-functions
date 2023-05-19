@@ -31,6 +31,12 @@ Neste projeto, escrevi funções que atendessem aos requisitos definidos pela Tr
 
 1. Clone o repositório: <br>
 `git clone git@github.com:prtpj1/project-trybewarts.git` 
-
 2. Acesse a pasta src onde estão as funções
-<br>
+</br>
+
+**OBS:**
+</br>
+*Na época que fiz este projeto eu ainda não conhecia os Conventional Commits. Somente a partir do módulo de BackEnd do curso da Trybe que aprendi e comecei a fazer commits melhores.
+</br>
+</br>
+Em breve estarei disponibilizando também os projetos dos módulos de **BackEnd** e **Ciência da Computação***
