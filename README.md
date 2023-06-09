@@ -28,10 +28,11 @@ Neste projeto, escrevi funções que atendessem aos requisitos definidos pela Tr
 
 
 ## Como rodar a aplicação?
-
-1. Clone o repositório: <br>
+- Clone o repositório: <br>
 `git clone git@github.com:prtpj1/project-trybewarts.git` 
-2. Acesse a pasta src onde estão as funções
+- Acesse a pasta do projeto: <br>
+`cd project-trybewarts`
+- Acesse a pasta src onde estão as funções
 </br>
 
 **OBS:**
